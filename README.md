@@ -2,7 +2,6 @@
 
 Welcome to the Symptomatic SDK.
 
-- [FAQ](https://github.com/symptomatic/software-development-kit/blob/master/faq.md)  
-- API Reference  
-- Tutorials  
+- [Frequently Asked Questions](https://github.com/symptomatic/software-development-kit/blob/master/faq.md)  
+- [Creating a Plugin](https://github.com/clinical-meteor/software-development-kit/blob/master/cookbook/creating.a.symptomatic.plugin.md)  
 
