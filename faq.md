@@ -44,8 +44,7 @@ Symptomatic uses the OAuth2 protocol to authenticate to Epic. Your application w
 
 At its heart, Symptomatic is built on a FHIR router and interface engine.  It has the ability to fetch, receive, relay, and transmit Fast Healthcare Interoperability Resources, just like a network router does with regular internet traffic.  As it does this, you have the option to store or pool the data.  This function is called caching.  
 
-A common scenario we encounter is a junior development team begins building a healthcare app at the request of a physician, and hit a wall when they try to fetch data from the EHR because their app wasn’t built from the ground up with interoperability in mind.  If the app happens to be build with Node.js, Symptomatic can provide the data routing and bridging piece.  As this happens, many clients prefer to persist and store the data for 30 or 90 days or more, so they don’t have to refetch data.  Caching
-Frequently Asked Questions requires HIPAA grade encrypted storage.  If the data is stored indefinitely, we refer to the Symptomatic instance as running in PHI Vault mode.   
+A common scenario we encounter is a junior development team begins building a healthcare app at the request of a physician, and hit a wall when they try to fetch data from the EHR because their app wasn’t built from the ground up with interoperability in mind.  If the app happens to be build with Node.js, Symptomatic can provide the data routing and bridging piece.  As this happens, many clients prefer to persist and store the data for 30 or 90 days or more, so they don’t have to refetch data.  Caching requires HIPAA grade encrypted storage.  If the data is stored indefinitely, we refer to the Symptomatic instance as running in PHI Vault mode.   
 
 #### Q:  How are caching policies defined?    
 
@@ -91,7 +90,7 @@ Search the clinical-meteor GitHub organization for ‘hl7-resource’ and you wi
 
 [https://github.com/clinical-meteor?utf8=%E2%9C%93&q=hl7-resource&type=&language=](https://github.com/clinical-meteor?utf8=%E2%9C%93&q=hl7-resource&type=&language=)  
 
-We are slowly refactoring them into pure functions, so we can extract them into the fhir-material-ui package, which is inspired by m
+We are slowly refactoring them into pure functions, so we can extract them into the fhir-material-ui package (roughly inspired by the material-ui library).
 
 [https://github.com/clinical-meteor/material-fhir-ui](https://github.com/clinical-meteor/material-fhir-ui)  
 
