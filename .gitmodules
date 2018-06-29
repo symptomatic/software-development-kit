@@ -1,0 +1,3 @@
+[submodule "meteor-on-fhir"]
+	path = meteor-on-fhir
+	url = https://github.com/clinical-meteor/meteor-on-fhir
