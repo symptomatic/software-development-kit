@@ -8,7 +8,6 @@ Welcome to the Symptomatic SDK.  This repository is intended to help you develop
 - [Build Pipelines](https://github.com/symptomatic/software-development-kit/blob/master/documentation/build.pipelines.md)  
 - [Creating a Plugin](https://github.com/symptomatic/software-development-kit/blob/master/documentation/creating.a.new.plugin.md)  
 - [Plugin API](https://github.com/symptomatic/software-development-kit/blob/master/documentation/plugin.api.md)  
-- [Setting Up a Development Environment](https://github.com/symptomatic/software-development-kit/blob/master/documentation/getting.started.md)  
 - [Data Pipeline Overview](https://github.com/symptomatic/software-development-kit/blob/master/documentation/architecture.overview.md)  
 
 
@@ -16,6 +15,8 @@ Welcome to the Symptomatic SDK.  This repository is intended to help you develop
 To begin developing, you will want to fetch the code from the following repositories.
 - [Meteor on FHIR](https://github.com/clinical-meteor/meteor-on-fhir)  
 - [Example Plugin](https://github.com/symptomatic/example-plugin)  
+- [Setting Up a Meteor Development Environment](https://github.com/symptomatic/software-development-kit/blob/master/documentation/getting.started.md)  
+- [Meteor Guide](https://guide.meteor.com)  
 
 Alternatively, you can recursively fetch this repository, and pull in the submodules.
 ```sh
