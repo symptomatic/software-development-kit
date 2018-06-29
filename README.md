@@ -5,7 +5,7 @@ Welcome to the Symptomatic SDK.  This repository is intended to help you develop
 #### Table of Contents  
 - [Frequently Asked Questions](https://github.com/symptomatic/software-development-kit/blob/master/documentation/faq.md)  
 - [Build Pipelines](https://github.com/symptomatic/software-development-kit/blob/master/documentation/build.pipelines.md)  
-- [Meteor on FHIR Installation](https://github.com/clinical-meteor/meteor-on-fhir)  
+- [Installing Meteor on FHIR](https://github.com/clinical-meteor/meteor-on-fhir)  
 - [Creating a Plugin](https://github.com/symptomatic/software-development-kit/blob/master/documentation/creating.a.new.plugin.md)  
 - [Plugin API](https://github.com/symptomatic/software-development-kit/blob/master/documentation/plugin.api.md)  
 - [Example Plugin](https://github.com/symptomatic/example-plugin)  
