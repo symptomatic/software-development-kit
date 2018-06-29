@@ -1,6 +1,6 @@
 # Symptomatic Software Development Kit  
 
-Welcome to the Symptomatic SDK.  This repository is intended to help you develop software using Symptomatic, which is the brand name that the Meteor on FHIR Community Server is sold under.  
+Welcome to the Symptomatic SDK.  This repository is intended to help you develop plugins for Symptomatic, which is the brand name that the Meteor on FHIR Community Server is sold under.  
 
 
 ## Table of Contents  
