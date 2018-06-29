@@ -10,5 +10,5 @@
 - [Data Pipeline Overview](https://github.com/symptomatic/software-development-kit/blob/master/documentation/architecture.overview.md)  
 
 
-#### Client Engagement Build Pipeline  
+#### Professional Services Build Pipeline  
 ![Client Engagement Build Pipeline](https://github.com/symptomatic/software-development-kit/blob/master/images/Client%20Engagement%20Build%20Pipeline%20-%20Page%201.png)  
