@@ -31,3 +31,7 @@ git submodule update
 Ensuring HIPAA, FDA, and EHR readiness is a complex task.  After consulting on dozens of healthcare websites and apps, we've developed the following production pipeline; wherein we currate javascript libraries into a technology stack that is ready to integrate with EHR platforms.   Your involvement using this SDK roughly corresponds with the blue lines in the diagram.
 
 ![Client Engagement Build Pipeline](https://raw.githubusercontent.com/symptomatic/software-development-kit/master/images/ProfessionalServicesBuildPipeline.png)  
+
+## Licensing   
+
+Meteor on FHIR is a GPL licensed project that contains a plugin architecture and package management system.  It ships with a number of MIT licensed packages, particularly around the Fast Healthcare Interoperability Resource specification.  This plugin architecture allows you to build proprietary plugins for Symptomatic, where you can keep proprietary business data, algorithms, quality control scripts, and other business logic.  
