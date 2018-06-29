@@ -1,5 +1,15 @@
 ## Plugin API
 
+![PluginAPI-AddressBar](https://raw.githubusercontent.com/symptomatic/software-development-kit/master/images/PluginAPI-AddressBar.png)  
+
+![PluginAPI-IndexPage](https://raw.githubusercontent.com/symptomatic/software-development-kit/master/images/PluginAPI-IndexPage.png)  
+
+![PluginAPI-PluginPage](https://raw.githubusercontent.com/symptomatic/software-development-kit/master/images/PluginAPI-PluginPage.png)  
+
+![PluginAPI-Sidebar](https://raw.githubusercontent.com/symptomatic/software-development-kit/master/images/PluginAPI-Sidebar.png)  
+
+
+
 Symptomatic extends the underlying Atmosphere plugin architecture with an API that is specific to the Meteor on FHIR interface engine.  If the following objects are exported from the package with the appropriate fields, Meteor on FHIR will be able to pick up the UI/UX elements and display them.  
 
 - **DynamicRoutes**   
