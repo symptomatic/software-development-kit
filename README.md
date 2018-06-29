@@ -13,9 +13,9 @@ Welcome to the Symptomatic SDK.  This repository is intended to help you develop
 
 ## Community Source Code   
 To begin developing, you will want to fetch the code from the following repositories, and read the following documentation.
+- [Setting Up a Meteor Development Environment](https://github.com/symptomatic/software-development-kit/blob/master/documentation/getting.started.md)  
 - [Meteor on FHIR](https://github.com/clinical-meteor/meteor-on-fhir)  
 - [Example Plugin](https://github.com/symptomatic/example-plugin)  
-- [Setting Up a Meteor Development Environment](https://github.com/symptomatic/software-development-kit/blob/master/documentation/getting.started.md)  
 - [Meteor Guide](https://guide.meteor.com)  
 
 Alternatively, you can recursively fetch this repository, and pull in the submodules.
