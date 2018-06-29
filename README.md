@@ -28,7 +28,7 @@ git submodule update
 
 ## Professional Services Build Pipeline  
 
-Ensuring HIPAA, FDA, and EHR readiness is a complex task.  After consulting on dozens of healthcare websites and apps, we've developed the following production pipeline; wherein we currate javascript libraries into a technology stack that is ready to integrate with EHR platforms.   Your involvement using this SDK roughly corresponds with the blue lines in the diagram.
+Ensuring HIPAA, FDA, and EHR readiness is a complex task.  After consulting on dozens of healthcare websites and apps, we've developed the following production pipeline; wherein we currate javascript libraries into a technology stack that is ready to integrate with EHR platforms.   Your involvement using this SDK roughly corresponds with the orange and blue lines in the diagram; depending on whether you're doing independent development or actively purchasing professional services from us.
 
 ![Client Engagement Build Pipeline](https://raw.githubusercontent.com/symptomatic/software-development-kit/master/images/ProfessionalServicesBuildPipeline.png)  
 
