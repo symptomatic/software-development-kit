@@ -3,13 +3,15 @@
 Welcome to the Symptomatic SDK.  This repository is intended to help you develop software using Symptomatic, which is the brand name that the Meteor on FHIR Community Server is sold under.  
 
 #### Table of Contents  
-- [Plugin API](https://github.com/symptomatic/software-development-kit/blob/master/documentation/plugin.api.md)  
-- [Setting Up a Development Environment](https://github.com/symptomatic/software-development-kit/blob/master/documentation/getting.started.md)  
 - [Frequently Asked Questions](https://github.com/symptomatic/software-development-kit/blob/master/documentation/faq.md)  
-- [Creating a Plugin](https://github.com/symptomatic/software-development-kit/blob/master/documentation/creating.a.new.plugin.md)  
-- [Data Pipeline Overview](https://github.com/symptomatic/software-development-kit/blob/master/documentation/architecture.overview.md)  
 - [Build Pipelines](https://github.com/symptomatic/software-development-kit/blob/master/documentation/build.pipelines.md)  
+- [Meteor on FHIR Installation](https://github.com/clinical-meteor/meteor-on-fhir)  
+- [Creating a Plugin](https://github.com/symptomatic/software-development-kit/blob/master/documentation/creating.a.new.plugin.md)  
+- [Plugin API](https://github.com/symptomatic/software-development-kit/blob/master/documentation/plugin.api.md)  
 - [Example Plugin](https://github.com/symptomatic/example-plugin)  
+- [Setting Up a Development Environment](https://github.com/symptomatic/software-development-kit/blob/master/documentation/getting.started.md)  
+- [Data Pipeline Overview](https://github.com/symptomatic/software-development-kit/blob/master/documentation/architecture.overview.md)  
+
 
 #### Professional Services Build Pipeline  
 
