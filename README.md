@@ -2,9 +2,8 @@
 
 Welcome to the Symptomatic SDK.  This repository is intended to help you develop software using Symptomatic, which is the brand name that the Meteor on FHIR Community Server is sold under.  
 
-==========================================
 
-#### Table of Contents  
+## Table of Contents  
 - [Frequently Asked Questions](https://github.com/symptomatic/software-development-kit/blob/master/documentation/faq.md)  
 - [Build Pipelines](https://github.com/symptomatic/software-development-kit/blob/master/documentation/build.pipelines.md)  
 - [Creating a Plugin](https://github.com/symptomatic/software-development-kit/blob/master/documentation/creating.a.new.plugin.md)  
@@ -12,9 +11,8 @@ Welcome to the Symptomatic SDK.  This repository is intended to help you develop
 - [Setting Up a Development Environment](https://github.com/symptomatic/software-development-kit/blob/master/documentation/getting.started.md)  
 - [Data Pipeline Overview](https://github.com/symptomatic/software-development-kit/blob/master/documentation/architecture.overview.md)  
 
------------------------------------------
 
-#### Community Source Code   
+## Community Source Code   
 To begin developing, you will want to fetch the code from the following repositories.
 - [Meteor on FHIR](https://github.com/clinical-meteor/meteor-on-fhir)  
 - [Example Plugin](https://github.com/symptomatic/example-plugin)  
