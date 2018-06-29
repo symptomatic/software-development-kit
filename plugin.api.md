@@ -1,12 +1,14 @@
 ## Plugin API
 
-![PluginAPI-AddressBar](https://raw.githubusercontent.com/symptomatic/software-development-kit/master/images/PluginAPI-AddressBar.png)  
 
 ![PluginAPI-IndexPage](https://raw.githubusercontent.com/symptomatic/software-development-kit/master/images/PluginAPI-IndexPage.png)  
 
+![PluginAPI-Sidebar](https://raw.githubusercontent.com/symptomatic/software-development-kit/master/images/PluginAPI-Sidebar.png)  
+
+![PluginAPI-AddressBar](https://raw.githubusercontent.com/symptomatic/software-development-kit/master/images/PluginAPI-AddressBar.png)  
+
 ![PluginAPI-PluginPage](https://raw.githubusercontent.com/symptomatic/software-development-kit/master/images/PluginAPI-PluginPage.png)  
 
-![PluginAPI-Sidebar](https://raw.githubusercontent.com/symptomatic/software-development-kit/master/images/PluginAPI-Sidebar.png)  
 
 
 
