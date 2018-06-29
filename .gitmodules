@@ -1,3 +1,7 @@
 [submodule "meteor-on-fhir"]
 	path = meteor-on-fhir
 	url = https://github.com/clinical-meteor/meteor-on-fhir
+
+[submodule "example-plugin"]
+	path = example-plugin
+	url = https://github.com/symptomatic/example-plugin
